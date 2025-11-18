@@ -52,8 +52,6 @@ How to implement algorithm visualization
 
 GUI-based visualization
 
-Compare algorithms side-by-side
-
 Include real disk latency models
 
 Web-based simulator version
